@@ -46,7 +46,7 @@ Cultural_Algorithms_Image_Processing/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/EyaBenFredj/CulturalAlgorithmsMdeicalImaging.git
+   git clone https://github.com/fedikh/CulturalAlgorithmsMedicalImaging.git
    cd CulturalAlgorithmsMdeicalImaging
    ```
 
